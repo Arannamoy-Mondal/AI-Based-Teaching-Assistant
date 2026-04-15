@@ -78,4 +78,4 @@ pnpm dev
 - Light/Dark mode toggle.
 - Markdown support for AI responses (bold, lists, code blocks).
 - 100% private and local AI processing using Ollama.
-```
+
